@@ -78,3 +78,7 @@ button {
 .about__info {
     max-width: 550px;
 }
+
+.form_container {
+    width: 500px;
+}
